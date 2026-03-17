@@ -36,7 +36,7 @@ export default {
       title: "Explorer",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "",
     },
     graph: {
       title: "Graph View",
@@ -73,10 +73,10 @@ export default {
     folderContent: {
       folder: "Folder",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 item under this folder." : `${count} items under this folder.`,
+        count === 1 ? "" : ``,
     },
     tagContent: {
-      tag: "Tag",
+      tag: "",
       tagIndex: "Tag Index",
       itemsUnderTag: ({ count }) =>
         count === 1 ? "1 item with this tag." : `${count} items with this tag.`,

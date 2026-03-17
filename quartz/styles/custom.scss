@@ -1,3 +1,65 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+html {
+  font-size: 110%;
+}
+
+// Amber accent on links
+a {
+  color: var(--secondary);
+
+  &:hover {
+    color: var(--secondary);
+    opacity: 0.8;
+  }
+}
+
+// Minimal content area
+.center {
+  max-width: 640px;
+}
+
+// Social icons row
+.social-icons {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 1rem;
+
+  a {
+    color: var(--darkgray);
+    transition: color 0.2s;
+
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+
+  svg {
+    display: block;
+  }
+}
+
+// Hide external link icons
+a.external .external-icon {
+  display: none;
+}
+
+// Remove bullets from tag lists
+ul.tags {
+  list-style: none;
+  padding-left: 0;
+}
+
+// Subtle tag styling
+.tag-link {
+  font-size: 0.8rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  background-color: var(--highlight);
+  color: var(--gray);
+  text-decoration: none;
+
+  &:hover {
+    color: var(--secondary);
+  }
+}

@@ -1,4 +1,5 @@
 import { Date, getDate } from "./Date"
+import { FullSlug, resolveRelative } from "../util/path"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
 import { classNames } from "../util/lang"
@@ -42,10 +43,25 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<span>{displayedTime}</span>)
       }
 
+      const tags = fileData.frontmatter?.tags
       return (
-        <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
-          {segments}
-        </p>
+        <div class={classNames(displayClass, "content-meta")}>
+          <span show-comma={options.showComma} class="content-meta-left">
+            {segments}
+          </span>
+          {tags && tags.length > 0 && (
+            <span class="content-meta-tags">
+              {tags.map((tag) => {
+                const linkDest = resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)
+                return (
+                  <a href={linkDest} class="internal tag-link">
+                    {tag}
+                  </a>
+                )
+              })}
+            </span>
+          )}
+        </div>
       )
     } else {
       return null
