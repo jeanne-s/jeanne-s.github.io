@@ -68,7 +68,12 @@ const config: QuartzConfig = {
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
+      Plugin.TableOfContents(),
       Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.Citations({
+        csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/nature.csl",
+        linkCitations: true,
+      }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

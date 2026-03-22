@@ -17,6 +17,8 @@ a {
 // Minimal content area
 .center {
   max-width: 640px;
+  text-align: justify;
+  hyphens: auto;
 }
 
 // Social icons row
@@ -48,6 +50,53 @@ a.external .external-icon {
 ul.tags {
   list-style: none;
   padding-left: 0;
+}
+
+// Bibliography spacing and layout
+#refs {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.csl-entry {
+  display: flex;
+}
+
+.csl-left-margin {
+  flex-shrink: 0;
+  margin-right: 0.5rem;
+}
+
+// Prevent footnote superscripts from increasing line height
+sup {
+  font-size: 0.75em;
+  line-height: 0;
+  vertical-align: baseline;
+  position: relative;
+  top: -0.5em;
+}
+
+// Space between sidebar nav and table of contents
+.left .toc {
+  margin-top: 3.5rem;
+}
+
+// TOC link color
+ul.toc-content.overflow > li > a {
+  color: var(--secondary);
+}
+
+// h3 entries not bold
+ul.toc-content.overflow > li.depth-3 > a {
+  font-weight: normal;
+}
+
+// Match callout color to link/accent color
+.callout[data-callout="note"] {
+  --color: #ba7517;
+  --border: #ba751744;
+  --bg: #ba751710;
 }
 
 // Subtle tag styling
