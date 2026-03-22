@@ -99,6 +99,25 @@ ul.toc-content.overflow > li.depth-3 > a {
   --bg: #ba751710;
 }
 
+// Substack cross-post link
+.substack-link {
+  margin-top: -1rem;
+  margin-bottom: 2rem;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.85rem;
+    color: var(--secondary);
+    text-decoration: none;
+
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}
+
 // Subtle tag styling
 .tag-link {
   font-size: 0.8rem;
