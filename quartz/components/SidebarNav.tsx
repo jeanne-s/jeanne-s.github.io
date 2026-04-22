@@ -8,6 +8,7 @@ const SidebarNav: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
       <nav class="sidebar-nav">
         <a href={baseDir}>About me</a>
         <a href={`${baseDir}/writing`}>Writing</a>
+        <a href={`${baseDir}/reading`}>Reading</a>
       </nav>
       <div class="sidebar-links">
         <a href="https://scholar.google.com/citations?user=qr-gsXMAAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar">
