@@ -39,8 +39,8 @@ BookGrid.css = `
 }
 
 .book-cover:hover img {
-  transform: scale(1.03);
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
 }
 
 .book-card.active .book-cover img {
