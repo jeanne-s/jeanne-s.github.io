@@ -3,7 +3,7 @@ title: About me
 date: 2026-03-17
 ---
 
-My name is **Jeanne Salle**, I'm a first-year PhD student in AI safety advised by [Maksym Andriushchenko](https://www.andriushchenko.me/) and [Sahar Abdelnabi](https://s-abdelnabi.github.io/), at the ELLIS Institute Tübingen and the Max Planck Institute for Intelligent Systems. 
+My name is **Jeanne Salle**, I'm a first-year PhD student in AI safety advised by [Maksym Andriushchenko](https://www.andriushchenko.me/) and [Sahar Abdelnabi](https://s-abdelnabi.github.io/), at the ELLIS Institute Tübingen and the Max Planck Institute for Intelligent Systems. Before that, I participated in the [MATS program](https://www.matsprogram.org/).
 
 I'm interested in anything AI safety related, AI governance, philosophy, reading and learning in general.
 

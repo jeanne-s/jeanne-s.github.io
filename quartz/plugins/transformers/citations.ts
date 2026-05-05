@@ -9,6 +9,7 @@ function normalizeQuotes(s: string): string {
   return s
     .replace(/[\u2018\u2019\u201A\u201B]/g, "'")
     .replace(/[\u201C\u201D\u201E\u201F]/g, '"')
+    .replace(/[\u00A0\u202F\u2009\u2007]/g, " ")
 }
 
 function cleanLatex(s: string): string {

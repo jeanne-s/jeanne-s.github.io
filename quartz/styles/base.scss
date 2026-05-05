@@ -554,9 +554,13 @@ tr {
 }
 
 img {
+  display: block;
   max-width: 100%;
-  border-radius: 5px;
-  margin: 1rem 0;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid var(--lightgray);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  margin: 1rem auto;
   content-visibility: auto;
 }
 

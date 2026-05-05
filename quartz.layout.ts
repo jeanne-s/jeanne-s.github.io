@@ -27,7 +27,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.MobileOnly(Component.Spacer()),
-    Component.Darkmode(),
     Component.SidebarNav(),
     Component.TableOfContents(),
   ],
@@ -46,7 +45,6 @@ export const defaultListPageLayout: PageLayout = {
   ],
   left: [
     Component.MobileOnly(Component.Spacer()),
-    Component.Darkmode(),
     Component.SidebarNav(),
   ],
   right: [],
