@@ -22,6 +22,28 @@ Reading is one of my favorite things, and I have more lists of books than I'll p
 
 <div class="book-card">
 <div class="book-cover">
+<img src="https://www.livresenfamille.fr/22275-medium_default/une-vie-a-coucher-dehors.jpg" alt="Une vie à coucher dehors">
+</div>
+<div class="book-detail">
+<h3>Une vie à coucher dehors</h3>
+<p class="book-author">Sylvain Tesson</p>
+<p class="book-summary">A collection of short stories by one of my favorite contemporary authors, inspired by his travels around the world. At times you almost feel like you're right there with the characters, sailing under the Greek sun, or wandering in the biting cold of a Siberian forest.</p>
+</div>
+</div>
+
+<div class="book-card">
+<div class="book-cover">
+<img src="https://www.penguin.co.uk/_next/image?url=https%3A%2F%2Fcdn.penguin.co.uk%2Fdam-assets%2Fbooks%2F9780140455120%2F9780140455120-jacket-large.jpg&w=379&q=100" alt="Notes from Underground">
+</div>
+<div class="book-detail">
+<h3>Notes from Underground</h3>
+<p class="book-author">Fyodor Dostoevsky</p>
+<p class="book-summary"></p>
+</div>
+</div>
+
+<div class="book-card">
+<div class="book-cover">
 <img src="https://media.hachette.fr/fit-in/780x1280/imgArticle/LATTES/2024/9782709672689-001-X.jpeg?source=web" alt="Les ingénieurs du chaos">
 </div>
 <div class="book-detail">
@@ -38,7 +60,7 @@ Reading is one of my favorite things, and I have more lists of books than I'll p
 <div class="book-detail">
 <h3>Rhinocéros</h3>
 <p class="book-author">Eugène Ionesco</p>
-<p class="book-summary"><em>Rhinocéros</em> is a short absurdist play, first performed in 1959, which is generally read as a metaphor for the rise of 20th-century totalitarian movements. It’s the story of a small town struck by an epidemic of "rhinoceritis" that inexplicably turns its inhabitants into rhinoceroses. The main character, a completely unremarkable man, is the only one who doesn't. His best friend, who used to lecture him about morality and dignity, is among the first to turn, his coworkers debate the phenomenon endlessly before transforming, and the woman he loves eventually finds the rhinoceroses beautiful and abandons him to become one herself. The only one left standing is the one no one would have really expected.
+<p class="book-summary"><em>Rhinocéros</em> is a short absurdist play, first performed in 1959, which is generally read as a metaphor for the rise of 20th-century totalitarian movements. It’s the story of a small town struck by an epidemic of "rhinoceritis" that inexplicably turns its inhabitants into rhinoceroses. The main character, a completely unremarkable man, is the only one who doesn't. His best friend, who used to lecture him about morality and dignity, is among the first to turn, his coworkers debate the situation endlessly before transforming, and the woman he loves eventually finds the rhinoceroses beautiful and abandons him to become one herself. The only one left standing is the one no one would have really expected.
 </p>
 </div>
 </div>
@@ -50,7 +72,10 @@ Reading is one of my favorite things, and I have more lists of books than I'll p
 <div class="book-detail">
 <h3>Apocalypse Nerds</h3>
 <p class="book-author">Nastasia Hadjadji & Olivier Tesquet</p>
-<p class="book-summary"></p>
+<p class="book-summary">
+
+I bought this one cause the title intrigued me (who are these "apocalypse nerds"??). It argues that a handful of Silicon Valley billionaires (Peter Thiel, Marc Andreessen, Curtis Yarvin, etc.) gravitating in Trump's orbit are pushing a pretty concerning political agenda that looks a lot like fascism: replacing democracy with oligarchy, naturalizing social hierarchies, completely deregulating the economy, and so on. The authors call this "technofascism": the idea that the tech world and far-right political agendas are colluding on a shared project that is authoritarian, anti-democratic, and excluding of most people. Very interesting read!
+</p>
 </div>
 </div>
 
