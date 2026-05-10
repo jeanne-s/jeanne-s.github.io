@@ -97,7 +97,8 @@ I bought this one cause the title intrigued me (who are these "apocalypse nerds"
 <div class="book-detail">
 <h3>Trahir par fidélité</h3>
 <p class="book-author">Aurélien Barrau</p>
-<p class="book-summary"></p>
+<p class="book-summary">Years ago, I was wasting time on YouTube when I stumbled upon an extraordinary lecture by the mathematician Alexander Grothendieck that has stayed with me ever since. It's titled <a href="https://www.youtube.com/watch?v=ZW9JpZXwGXc" target="_blank" rel="noopener noreferrer">"Will we continue scientific research?"</a> I'd really recommend it to anyone. Grothendieck was a truly singular figure: a mathematical genius, Fields medalist, at the peak of his career when he suddenly walked away from the research he had devoted his life to. He had become convinced that scientific research in its current form was mostly pointless, and perhaps even responsible for some of the great problems of our time. The book tells his story.
+</p>
 </div>
 </div>
 
