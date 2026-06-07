@@ -9,6 +9,16 @@ Reading is one of my favorite things, and I have more lists of books than I'll p
 
 <div class="book-grid">
 
+<div class="book-card">
+<div class="book-cover">
+<img src="https://covers.openlibrary.org/b/id/6601080-L.jpg" alt="The Tartar Steppe">
+</div>
+<div class="book-detail">
+<h3>The Tartar Steppe</h3>
+<p class="book-author">Dino Buzzati</p>
+<p class="book-summary"></p>
+</div>
+</div>
 
 <div class="book-card">
 <div class="book-cover">
@@ -64,6 +74,8 @@ A collection of short stories by one of my favorite contemporary authors, inspir
 <h3>Les ingénieurs du chaos</h3>
 <p class="book-author">Giuliano da Empoli</p>
 <p class="book-summary">
+
+<em>Les ingénieurs du chaos</em> explains how reactionary movements like MAGA, the Five Star Movement, the AfD or Viktor Orbán's Fidesz gained popularity in recent years. It focuses on the "engineers" behind them, and the techniques they developed 
 </p>
 </div>
 </div>
