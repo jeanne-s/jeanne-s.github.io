@@ -2,12 +2,28 @@
 title: Reading List
 ---
 
-Reading is one of my favorite things, and I have more lists of books than I'll probably ever finish. I love seeing what other people read. It inspires me, and I sometimes pick up ideas from them. Here are some of the books I've read.
+Reading is one of my favorite things, and I have more lists of books than I'll probably ever finish. I love seeing what other people read (this page was inspired by my friend [Satvik's bookshelf](https://7vik.io/bookshelf/)!). It inspires me, and I sometimes pick up ideas from them. Here are some of the books I've read.
 
 
 ## 2026
 
 <div class="book-grid">
+
+
+
+<div class="book-card">
+<div class="book-cover">
+<img src="https://m.media-amazon.com/images/I/81KaMm2Uk6L._AC_UF894,1000_QL80_.jpg" alt="Love of Beginnings">
+</div>
+<div class="book-detail">
+<h3>Love of Beginnings</h3>
+<p class="book-author">J.-B. Pontalis</p>
+<p class="book-summary">
+
+<em>Love of Beginnings</em> is a collection of small nostalgic memories. The author recalls the calm of his high school years, the holiday house he would return to every summer, his Parisian life in the 50s, and the way he came to understand how much he loved his mother when she became sick and started calling him every day. It's a tender and touching read.
+</p>
+</div>
+</div>
 
 <div class="book-card">
 <div class="book-cover">
@@ -127,6 +143,7 @@ I bought this one cause the title intrigued me (who are these "apocalypse nerds"
 <h3>Trahir par fidélité</h3>
 <p class="book-author">Aurélien Barrau</p>
 <p class="book-summary">
+
 Years ago, I was wasting time on YouTube when I stumbled upon an extraordinary lecture by the mathematician Alexander Grothendieck that has stayed with me ever since. It's titled <a href="https://www.youtube.com/watch?v=ZW9JpZXwGXc" target="_blank" rel="noopener noreferrer">"Will we continue scientific research?"</a> I'd really recommend it to anyone. Grothendieck was a truly singular figure: a mathematical genius, Fields medalist, at the peak of his career when he suddenly walked away from the research he had devoted his life to. He had become convinced that scientific research in its current form was mostly pointless, and perhaps even responsible for some of the great problems of our time. The book tells his story.
 </p>
 </div>
