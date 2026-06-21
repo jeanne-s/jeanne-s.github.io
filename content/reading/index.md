@@ -2,14 +2,23 @@
 title: Reading List
 ---
 
-Reading is one of my favorite things, and I have more lists of books than I'll probably ever finish. I love seeing what other people read (this page was inspired by my friend [Satvik's bookshelf](https://7vik.io/bookshelf/)!). It inspires me, and I sometimes pick up ideas from them. Here are some of the books I've read.
+Reading is one of my favorite things, and I have more lists of books than I'll probably ever finish. I love seeing what other people read, it inspires me and I sometimes pick up ideas from them (this page was inspired by my friend [Satvik's bookshelf](https://7vik.io/bookshelf/)!). Here are some of the books I've read.
 
 
 ## 2026
 
 <div class="book-grid">
 
-
+<div class="book-card">
+<div class="book-cover">
+<img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1597056415i/54870256.jpg" alt="There is no Antimemetics Division">
+</div>
+<div class="book-detail">
+<h3>There is no Antimemetics Division</h3>
+<p class="book-author">qntm</p>
+<p class="book-summary"></p>
+</div>
+</div>
 
 <div class="book-card">
 <div class="book-cover">
@@ -27,7 +36,7 @@ Reading is one of my favorite things, and I have more lists of books than I'll p
 
 <div class="book-card">
 <div class="book-cover">
-<img src="https://covers.openlibrary.org/b/id/6601080-L.jpg" alt="The Tartar Steppe">
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/The_Tartar_Steppe_cover.jpg" alt="The Tartar Steppe">
 </div>
 <div class="book-detail">
 <h3>The Tartar Steppe</h3>
@@ -43,7 +52,10 @@ Reading is one of my favorite things, and I have more lists of books than I'll p
 <div class="book-detail">
 <h3>Map and Territory</h3>
 <p class="book-author">Eliezer Yudkowsky</p>
-<p class="book-summary"></p>
+<p class="book-summary">
+
+I finally got around to reading <em>The Sequences</em> after hearing so many people talk about them. It felt somewhat similar to <em>Thinking, Fast and Slow</em>, but written less clearly. Some concepts are definitely very useful, like the "planning fallacy" or "belief as attire", and they gave me words to name vague intuitions I'd had before. Once you have them, you start seeing them everywhere. One that I really like is "applause lights": statements that are uncontroversial and make you look good but are totally empty. They're very common in policy discourse, like "we need to balance the risks and opportunities of AI" without specifying how to balance them (which is precisely where the difficulty lies), or "we need a democratic solution" without mentioning any implementation details. A large part of AI labs' policy proposals consists of applause lights, which makes them look good without having to do the hard work of actually solving anything. 
+</p>
 </div>
 </div>
 
@@ -84,14 +96,14 @@ A collection of short stories by one of my favorite contemporary authors, inspir
 
 <div class="book-card">
 <div class="book-cover">
-<img src="https://media.hachette.fr/fit-in/780x1280/imgArticle/LATTES/2024/9782709672689-001-X.jpeg?source=web" alt="Les ingénieurs du chaos">
+<img src="https://imgs.search.brave.com/gSUCEIV6ZSc8ogdJG-V7kIraO3e4gShheqdLtLAtCyY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFGU25FRkVFdEwu/anBn" alt="Les ingénieurs du chaos">
 </div>
 <div class="book-detail">
 <h3>Les ingénieurs du chaos</h3>
 <p class="book-author">Giuliano da Empoli</p>
 <p class="book-summary">
 
-<em>Les ingénieurs du chaos</em> explains how reactionary movements like MAGA, the Five Star Movement, the AfD or Viktor Orbán's Fidesz gained popularity in recent years. It focuses on the "engineers" behind them, and the techniques they developed 
+<em>Les ingénieurs du chaos</em> explains how reactionary movements like MAGA, the Five Star Movement, the AfD or Viktor Orbán's Fidesz gained popularity in recent years. It focuses on the "engineers" behind them, and the techniques they've developed. 
 </p>
 </div>
 </div>
