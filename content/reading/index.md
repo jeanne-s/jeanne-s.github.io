@@ -11,6 +11,17 @@ Reading is one of my favorite things, and I have more lists of books than I'll p
 
 <div class="book-card">
 <div class="book-cover">
+<img src="https://upload.wikimedia.org/wikipedia/en/7/7a/The_Swallows_of_Kabul.jpg" alt="The Swallows of Kabul">
+</div>
+<div class="book-detail">
+<h3>The Swallows of Kabul</h3>
+<p class="book-author">Yasmina Khadra</p>
+<p class="book-summary"></p>
+</div>
+</div>
+
+<div class="book-card">
+<div class="book-cover">
 <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1597056415i/54870256.jpg" alt="There is no Antimemetics Division">
 </div>
 <div class="book-detail">
