@@ -8,9 +8,6 @@ const SidebarNav: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
       <nav class="sidebar-nav">
         <a href={baseDir}>About me</a>
         <a href={`${baseDir}/writing`}>Writing</a>
-        <a href={`${baseDir}/reading`} class="sidebar-nav-icon" title="Reading List">
-          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M11.25 4.533A9.707 9.707 0 0 0 6 3a9.735 9.735 0 0 0-3.25.555.75.75 0 0 0-.5.707v14.25a.75.75 0 0 0 1 .707A8.237 8.237 0 0 1 6 18.75c1.995 0 3.823.707 5.25 1.886V4.533ZM12.75 20.636A8.214 8.214 0 0 1 18 18.75c.966 0 1.89.166 2.75.47a.75.75 0 0 0 1-.708V4.262a.75.75 0 0 0-.5-.707A9.735 9.735 0 0 0 18 3a9.707 9.707 0 0 0-5.25 1.533v16.103Z"/></svg>
-        </a>
       </nav>
       <div class="sidebar-links">
         <a href="https://scholar.google.com/citations?user=qr-gsXMAAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar">
@@ -24,6 +21,9 @@ const SidebarNav: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
         </a>
         <a href="https://substack.com/@jeanne303631" target="_blank" rel="noopener" title="Substack">
           <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"><path fill="currentColor" d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"/></svg>
+        </a>
+        <a href={`${baseDir}/reading`} title="Reading List">
+          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M11.25 4.533A9.707 9.707 0 0 0 6 3a9.735 9.735 0 0 0-3.25.555.75.75 0 0 0-.5.707v14.25a.75.75 0 0 0 1 .707A8.237 8.237 0 0 1 6 18.75c1.995 0 3.823.707 5.25 1.886V4.533ZM12.75 20.636A8.214 8.214 0 0 1 18 18.75c.966 0 1.89.166 2.75.47a.75.75 0 0 0 1-.708V4.262a.75.75 0 0 0-.5-.707A9.735 9.735 0 0 0 18 3a9.707 9.707 0 0 0-5.25 1.533v16.103Z"/></svg>
         </a>
       </div>
     </div>
@@ -46,15 +46,6 @@ SidebarNav.css = `
 }
 
 .sidebar-nav a:hover {
-  color: var(--secondary);
-}
-
-.sidebar-nav a.sidebar-nav-icon {
-  color: var(--dark);
-  padding: 0.1rem 0;
-}
-
-.sidebar-nav a.sidebar-nav-icon:hover {
   color: var(--secondary);
 }
 

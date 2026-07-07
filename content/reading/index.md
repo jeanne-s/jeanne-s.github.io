@@ -2,7 +2,7 @@
 title: Reading List
 ---
 
-Reading is one of my favorite things, and I have more lists of books than I'll probably ever finish. I love seeing what other people read, it inspires me and I sometimes pick up ideas from them (this page was inspired by my friend [Satvik's bookshelf](https://7vik.io/bookshelf/)!). Here are some of the books I've read.
+Reading is one of my favorite things, and I have more lists of books than I'll probably ever finish. I love seeing what other people read, it inspires me and I sometimes pick up ideas from them. Here are some of the books I've read.
 
 
 ## 2026
