@@ -11,6 +11,17 @@ Reading is one of my favorite things, and I have more lists of books than I'll p
 
 <div class="book-card">
 <div class="book-cover">
+<img src="https://m.media-amazon.com/images/I/31P-rYy6gPL._AC_UF894,1000_QL80_.jpg" alt="How to Actually Change Your Mind">
+</div>
+<div class="book-detail">
+<h3>How to Actually Change Your Mind</h3>
+<p class="book-author">Eliezer Yudkowsky</p>
+<p class="book-summary"></p>
+</div>
+</div>
+
+<div class="book-card">
+<div class="book-cover">
 <img src="https://m.media-amazon.com/images/I/51BoqU7iDxL._SY522_.jpg" alt="S'anomaliser">
 </div>
 <div class="book-detail">
