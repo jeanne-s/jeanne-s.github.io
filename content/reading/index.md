@@ -11,6 +11,17 @@ Reading is one of my favorite things, and I have more lists of books than I'll p
 
 <div class="book-card">
 <div class="book-cover">
+<img src="https://m.media-amazon.com/images/I/51TkKQwa2qL._AC_UF1000,1000_QL80_.jpg" alt="Lolita">
+</div>
+<div class="book-detail">
+<h3>Lolita</h3>
+<p class="book-author">Vladimir Nabokov</p>
+<p class="book-summary"></p>
+</div>
+</div>
+
+<div class="book-card">
+<div class="book-cover">
 <img src="https://m.media-amazon.com/images/I/31P-rYy6gPL._AC_UF894,1000_QL80_.jpg" alt="How to Actually Change Your Mind">
 </div>
 <div class="book-detail">
