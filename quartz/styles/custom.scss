@@ -131,3 +131,46 @@ ul.toc-content.overflow > li.depth-3 > a {
     color: var(--secondary);
   }
 }
+
+// Figures: centered image with a small, muted caption
+.page article figure {
+  margin: 1.8rem auto;
+  text-align: center;
+
+  // the image sits in its own <p>; drop its default margins
+  > p {
+    margin: 0;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  figcaption p {
+    margin: 0.6rem auto 0;
+    max-width: 34rem;
+    font-size: 0.8rem;
+    line-height: 1.2rem;
+    color: var(--gray);
+    text-align: center;
+    text-wrap: pretty;
+
+    strong {
+      color: var(--gray);
+      font-weight: 600;
+    }
+  }
+}
+
+// Align post titles across listing rows. Each <li> is its own grid, and
+// listPage.scss sizes the date column with fit-content(), so rows whose month
+// abbreviation renders at a different width ("Sep" vs "Mar") shift the title.
+// A fixed first column makes every row start the title at the same place.
+li.section-li > .section {
+  grid-template-columns: 7em 3fr 1fr;
+
+  .meta time {
+    white-space: nowrap;
+  }
+}
