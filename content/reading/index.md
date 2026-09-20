@@ -11,6 +11,20 @@ Reading is one of my favorite things, and I have more lists of books than I'll p
 
 <div class="book-card">
 <div class="book-cover">
+<img src="https://m.media-amazon.com/images/I/71m3kHtnssL._AC_UF894,1000_QL80_.jpg" alt="Empire of AI">
+</div>
+<div class="book-detail">
+<h3>Empire of AI</h3>
+<p class="book-author">Karen Hao</p>
+<p class="book-summary">
+
+Such an excellent book! I discovered Karen Hao in <a href="https://en.wikipedia.org/wiki/The_AI_Doc:_Or_How_I_Became_an_Apocaloptimist" target="_blank" rel="noopener noreferrer"><em>The AI Doc</em></a> and looked at several interviews she gave and articles she wrote. She's been investigating OpenAI since 2019, and the book is about what she discovered after interviewing hundreds of employees, former employees, and people related to OpenAI. She says that the notion of "empire" is the metaphor that best encapsulates all of the dimensions of what frontier labs do, their scale, and what motivates them: they build systems that'll affect billions of people and these people do not get a say, they claim resources that are not their own (data, creative properties, lands, etc.), they exploit labor (for data labelling), they create products that'll automate labor, which will ultimately lead to the erosion of labor rights, and finally, they monopolize the production of knowledge (for exemple, when they claim they're <em>the only ones</em> who actually understand AI risks and can build AI safely, and if the public doesn't want AI it's because they don't really understand). I strongly agree with her when she writes that <strong>frontier labs have created a mythology that they use to justify an extremely anti-democratic approach to AI development</strong>. Things could go very badly, so they need to be in control, because they (contrarily to their competitors) actually care about humanity. This myth is a way for them to persuade others they need more power and resources, that their mission is beneficial, and she says many of them "lose themselves in the myth-making". 
+</p>
+</div>
+</div>
+
+<div class="book-card">
+<div class="book-cover">
 <img src="https://m.media-amazon.com/images/I/51TkKQwa2qL._AC_UF1000,1000_QL80_.jpg" alt="Lolita">
 </div>
 <div class="book-detail">
