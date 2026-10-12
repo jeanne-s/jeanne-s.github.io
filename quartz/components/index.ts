@@ -25,6 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import SidebarNav from "./SidebarNav"
 import BookGrid from "./BookGrid"
+import Email from "./Email"
 
 export {
   ArticleTitle,
@@ -54,4 +55,5 @@ export {
   ConditionalRender,
   SidebarNav,
   BookGrid,
+  Email,
 }

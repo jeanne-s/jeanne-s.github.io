@@ -9,4 +9,4 @@ I discovered AI safety during my Master's and volunteered at the [Centre pour la
 
 I'm interested in anything AI safety-related: technical research, AI governance, regulations, forecasting/futures studies, how to communicate about risks, etc. Recently, I've also enjoyed studying geopolitics and philosophy.
 
-Feel free to reach out at [jeanne.salle@yahoo.fr](mailto:jeanne.salle@yahoo.fr)! I'm always happy to chat :)
+Feel free to reach out at <span class="email" data-rev="em.notorp@ennaej.ellas">my email</span>! 
