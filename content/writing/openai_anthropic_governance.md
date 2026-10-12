@@ -1,6 +1,6 @@
 ---
 title: How OpenAI and Anthropic Are Governed
-subtitle: Can they actually choose safety over money?
+subtitle:
 date: 2026-03-22
 tags:
   - ai_safety
