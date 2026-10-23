@@ -10,3 +10,9 @@ I discovered AI safety during my Master's and volunteered at the [Centre pour la
 I'm interested in anything AI safety-related: technical research, AI governance, regulations, forecasting/futures studies, how to communicate about risks, etc. 
 
 Feel free to reach out at <span class="email" data-rev="em.notorp@ennaej.ellas">my email</span>! 
+
+## Updates
+
+<ul class="updates">
+  <li><span class="update-date">Oct 2026</span><span>I'll be joining the <a href="https://www.governance.ai/post/winter-fellowship-2027-research-track">GovAI Fellowship</a> in January to work on AI governance research!</span></li>
+</ul>

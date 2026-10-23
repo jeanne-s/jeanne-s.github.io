@@ -174,3 +174,22 @@ li.section-li > .section {
     white-space: nowrap;
   }
 }
+
+// Homepage "Updates" list: date column + text, no bullets
+ul.updates {
+  list-style: none;
+  padding-left: 0;
+  text-align: left;
+
+  li {
+    display: grid;
+    grid-template-columns: 6em 1fr;
+    gap: 0.5rem;
+    margin: 0.4rem 0;
+  }
+
+  .update-date {
+    color: var(--gray);
+    white-space: nowrap;
+  }
+}
