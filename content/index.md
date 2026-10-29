@@ -7,12 +7,13 @@ My name is **Jeanne Salle**, I'm a first-year PhD student in the **AI Safety and
 
 I discovered AI safety during my Master's and volunteered at the [Centre pour la Sécurité de l'IA](https://cesia.org/en/), a French think-tank dedicated to informing policymakers about AI risks. I organized events and weekly discussion groups, taught the AI safety course in [ENS Ulm](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_(Paris)) and contributed to the [AI Safety Atlas](https://ai-safety-atlas.com/) (a textbook distilling AI safety research). I'm now a mentor for [SPAR](https://sparai.org/) (Supervised Program for Alignment Research).
 
-I'm interested in anything AI safety-related: technical research, AI governance, regulations, forecasting/futures studies, how to communicate about risks, etc. 
+I'm interested in anything AI safety-related: technical research, AI governance (especially middle powers governance!), regulations, forecasting, threat modelling, how to communicate about risks, etc. 
 
 Feel free to reach out at <span class="email" data-rev="em.notorp@ennaej.ellas">my email</span>! 
 
 ## Updates
 
 <ul class="updates">
+  <li><span class="update-date">Nov 2026</span><span>I'm attending the <a href="https://swissaisafetydays.ch/">Swiss AI Safety Days</a> in Zürich 🇨🇭</span></li>
   <li><span class="update-date">Oct 2026</span><span>I'll be joining the <a href="https://www.governance.ai/post/winter-fellowship-2027-research-track">GovAI Fellowship</a> in January to work on AI governance research!</span></li>
 </ul>
