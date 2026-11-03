@@ -7,6 +7,7 @@ tags:
 bibliography: content/bibliographies/incident_reporting.bib
 ---
 
+<div class="substack-link"><a href="https://jeanne303631.substack.com/p/why-us-ai-incident-reporting-laws" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"/></svg> Read on Substack</a></div>
 
 Why did OpenAI disclose so little, and so late, about the incidents its models caused\[@noauthor\_openai\_2026\]? **Because it didn’t have to, OpenAI is simply not legally required to report any of them**\[@arnold\_when\_2026\].
 
