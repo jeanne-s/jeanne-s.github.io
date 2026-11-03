@@ -163,12 +163,19 @@ ul.toc-content.overflow > li.depth-3 > a {
   }
 }
 
+// Listing pages get a wider column so long titles wrap less; articles keep 640px
+.center:has(ul.section-ul) {
+  max-width: 800px;
+}
+
 // Align post titles across listing rows. Each <li> is its own grid, and
 // listPage.scss sizes the date column with fit-content(), so rows whose month
 // abbreviation renders at a different width ("Sep" vs "Mar") shift the title.
 // A fixed first column makes every row start the title at the same place.
 li.section-li > .section {
-  grid-template-columns: 7em 3fr 1fr;
+  grid-template-columns: 7em 1fr auto;
+  // .center justifies text; a wrapped title would get stretched word spacing
+  text-align: left;
 
   .meta time {
     white-space: nowrap;
