@@ -11,6 +11,31 @@ Reading is one of my favorite things, and I have more lists of books than I'll p
 
 <div class="book-card">
 <div class="book-cover">
+<img src="https://imgs.search.brave.com/L6zdpTo8fZlXp6uRn77pz90h1gN-9DIR8COVzGdNn9M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucmVuYXVkLWJy/YXkuY29tL2ltYWdl/cy9QRy80ODI1LzQ4/MjUzODctZ2YuanBn/PzQwND00MDRSQi5n/aWY" alt="Le fondateur">
+</div>
+<div class="book-detail">
+<h3>Le fondateur</h3>
+<p class="book-author">Giuliano da Empoli</p>
+<p class="book-summary"></p>
+</div>
+</div>
+
+
+<div class="book-card">
+<div class="book-cover">
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a7/Tschick.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" alt="Why We Took the Car">
+</div>
+<div class="book-detail">
+<h3>Why We Took the Car</h3>
+<p class="book-author">Wolfgang Herrndorf</p>
+<p class="book-summary"></p>
+</div>
+</div>
+
+
+
+<div class="book-card">
+<div class="book-cover">
 <img src="https://m.media-amazon.com/images/I/71m3kHtnssL._AC_UF894,1000_QL80_.jpg" alt="Empire of AI">
 </div>
 <div class="book-detail">
