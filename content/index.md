@@ -14,7 +14,7 @@ Feel free to reach out at <span class="email" data-rev="em.notorp@ennaej.ellas">
 ## Updates
 
 <ul class="updates">
-  <li><span class="update-date">Nov 2026</span><span>I was interviewed by <a href="https://www.lemonde.fr/pixels/article/2026/11/12/les-cinq-raisons-pour-lesquelles-les-ia-ne-sont-pas-encore-un-risque-pour-l-humanite_6809114_4408996.html">Le Monde</a> about risks from recursive self-improvement, autonomous replication, self-abliteration, etc.</span></li>
+  <li><span class="update-date">Nov 2026</span><span>I was interviewed by <a href="https://www.lemonde.fr/pixels/article/2026/11/12/les-cinq-raisons-pour-lesquelles-les-ia-ne-sont-pas-encore-un-risque-pour-l-humanite_6809114_4408996.html">Le Monde</a> about risks from risks from advanced AI (recursive self-improvement, autonomous replication, self-abliteration, etc.)</span></li>
   <li><span class="update-date">Nov 2026</span><span>I'm attending the <a href="https://swissaisafetydays.ch/">Swiss AI Safety Days</a> in Zürich 🇨🇭</span></li>
   <li><span class="update-date">Oct 2026</span><span>I'll be joining the <a href="https://www.governance.ai/post/winter-fellowship-2027-research-track">GovAI Fellowship</a> in January to work on AI governance research!</span></li>
 </ul>
