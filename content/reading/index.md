@@ -11,6 +11,17 @@ Reading is one of my favorite things, and I have more lists of books than I'll p
 
 <div class="book-card">
 <div class="book-cover">
+<img src="https://imgs.search.brave.com/-bayBWrJC1OxBbtVZF2nReXkvN06I4Fnw29xBfDdBgs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cmFwcG9ydGV1c2Vz/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNi8xMS9pbWFn/ZS0xLTY4M3gxMDI0/LndlYnA" alt="Le palais">
+</div>
+<div class="book-detail">
+<h3>Le palais</h3>
+<p class="book-author">François-Henri Désérable</p>
+<p class="book-summary"></p>
+</div>
+</div>
+
+<div class="book-card">
+<div class="book-cover">
 <img src="https://imgs.search.brave.com/L6zdpTo8fZlXp6uRn77pz90h1gN-9DIR8COVzGdNn9M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucmVuYXVkLWJy/YXkuY29tL2ltYWdl/cy9QRy80ODI1LzQ4/MjUzODctZ2YuanBn/PzQwND00MDRSQi5n/aWY" alt="Le fondateur">
 </div>
 <div class="book-detail">
